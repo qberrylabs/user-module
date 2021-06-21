@@ -7,7 +7,6 @@
         "email": "n.widart@gmail.com"
     }],
     "extra": {
-        "module-dir": "Custom",
         "laravel": {
             "providers": [],
             "aliases": {
