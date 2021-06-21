@@ -1,0 +1,22 @@
+{
+    "name": "nwidart/usermodule",
+    "description": "",
+    "authors": [{
+        "name": "Nicolas Widart",
+        "email": "n.widart@gmail.com"
+    }],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            },
+            "module-dir": "Custom"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\UserModule\\": ""
+        }
+    }
+}
